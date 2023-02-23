@@ -1,0 +1,1 @@
+audio_play_sound(mummyvoice,0,0)
